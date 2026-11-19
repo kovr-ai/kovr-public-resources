@@ -1,0 +1,8 @@
+.env
+.git
+env/
+__pycache__/
+*.pyc
+htmlcov/
+output/
+.DS_Store

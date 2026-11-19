@@ -1,0 +1,10 @@
+.env
+.DS_Store
+*.DS_Store
+
+# Resource Collector
+resource-collector/htmlcov/
+resource-collector/output/
+resource-collector/__pycache__/
+resource-collector/*/__pycache__/
+
